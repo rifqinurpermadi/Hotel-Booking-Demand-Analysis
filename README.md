@@ -4,4 +4,4 @@ This project is done for **RevoU Final Project**, and our group, with **91.25/10
 Task Done : 
 - Clustering the causes of the high cancellation rate at city hotel bookings with Root Cause Analysis (RCA)
 - Analyzing ways to reduce the booking cancellation rate at city hotels
-- Creating analytical dashboard with Looker Studio
+- Creating analytical [dashboard with Looker Studio](https://lookerstudio.google.com/u/0/reporting/4e7aa8d1-d1dd-43bf-bf2a-5f2ab064096d/page/p_1fhi72gmad)
