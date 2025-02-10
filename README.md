@@ -6,4 +6,4 @@ Task Done :
 - Analyzing ways to reduce the booking cancellation rate at city hotels
 - Creating analytical [dashboard](https://lookerstudio.google.com/u/0/reporting/4e7aa8d1-d1dd-43bf-bf2a-5f2ab064096d/page/p_1fhi72gmad) with Looker Studio
 
-[FINAL REPORT](https://drive.google.com/file/d/1Gp8292XKFEBbfoPvq4D43DpbtBf7fEKU/view)
+[Final Report](https://drive.google.com/file/d/1Gp8292XKFEBbfoPvq4D43DpbtBf7fEKU/view)
